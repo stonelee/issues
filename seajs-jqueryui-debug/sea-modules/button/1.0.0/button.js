@@ -1,0 +1,1 @@
+define("botton/1.0.0/button",["$","gallery/jquery-ui/1.9.1/jquery-ui"],function(e,t,n){var r;return r=e("$"),e("gallery/jquery-ui/1.9.1/jquery-ui"),r("#box").button()});
