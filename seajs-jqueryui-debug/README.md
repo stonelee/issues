@@ -2,19 +2,19 @@
 
 页面地址：
 
-http://localhost/work/issues/seajs-jqueryui-debug/examples/index.html
+http://stonelee.info/issues/seajs-jqueryui-debug/examples/index.html
 
 spm build，页面调用压缩之后的模块，一切正常
 
 页面地址：
 
-http://localhost/work/issues/seajs-jqueryui-debug/index.html
+http://stonelee.info/issues/seajs-jqueryui-debug/index.html
 
 换debug方式
 
 页面地址：
 
-http://localhost/work/issues/seajs-jqueryui-debug/index-debug.html
+http://stonelee.info/issues/seajs-jqueryui-debug/index-debug.html
 
 提示错误
 
