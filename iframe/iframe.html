@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    <title>iframe</title>
+  </head>
+  
+  <body>
+      iframe
+    <button id="btn">resize</button>
+
+    <script>
+      document.getElementById('btn').onclick=function () {
+        var node = window.top.document.getElementById('proxy');
+        var oldProxyWidth = parseInt(node.style.width, 10);
+        var newProxyWidth=oldProxyWidth+1+'px';
+        node.style.width = newProxyWidth;
+      }
+    </script>
+  </body>
+
+</html>
